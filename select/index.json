@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Bumble Bee",
+  "base_artist": "Bambee",
+  "createdAt": "2026-02-19T05:00:27.552950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Zedd feat. Botnek",
+      "has_synced": true,
+      "path": "select/01_Bumble_Bee_Zedd_feat._Botnek.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Zedd & Botnek",
+      "has_synced": true,
+      "path": "select/02_Bumble_Bee_Zedd_&_Botnek.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Bambee",
+      "has_synced": true,
+      "path": "select/03_Bumble_Bee_Bambee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bumble Bee (Featuring Botnek)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/04_Bumble_Bee_(Featuring_Botnek)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be My Little Baby Bumble Bee",
+      "artist": "Jonathan and Darlene Edwards",
+      "has_synced": false,
+      "path": "select/05_Be_My_Little_Baby_Bumble_Bee_Jonathan_and_Darlene_Edwards.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flight of the Bumble-Bee",
+      "artist": "The Great Kat",
+      "has_synced": false,
+      "path": "select/06_Flight_of_the_Bumble-Bee_The_Great_Kat.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Memphis Minnie",
+      "has_synced": false,
+      "path": "select/07_Bumble_Bee_Memphis_Minnie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/08_Bumble_Bee_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bumble Bee Live",
+      "artist": "Ween",
+      "has_synced": true,
+      "path": "select/09_Bumble_Bee_Live_Ween.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BUMBLE BEE",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/10_BUMBLE_BEE_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bumble Bee",
+      "artist": "Lavern Baker",
+      "has_synced": false,
+      "path": "select/11_Bumble_Bee_Lavern_Baker.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Dancing Bumble Bee / Bumble Boogie",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/12_The_Dancing_Bumble_Bee___Bumble_Boogie_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be My Little Baby Bumble Bee",
+      "artist": "Doris Day feat. Paul Weston And His Orchestra",
+      "has_synced": false,
+      "path": "select/13_Be_My_Little_Baby_Bumble_Bee_Doris_Day_feat._Paul_Weston_And_His_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bumble Bee",
+      "artist": "Bambee",
+      "has_synced": false,
+      "path": "select/pl_01_Bumble_Bee_Bambee.txt"
+    }
+  ]
+}
